@@ -36,4 +36,4 @@ We welcome contributions to improve Bagzz. Feel free to submit pull requests or 
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license).
+This project is licensed under the [MIT License].
