@@ -22,7 +22,6 @@ Bagzz is an e-commerce mobile application built using React Native for selling d
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
-3. Configure Firebase for backend services.
 4. Run the application using `npm start`.
 
 ## Usage
